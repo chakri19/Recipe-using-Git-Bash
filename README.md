@@ -3,4 +3,4 @@ My recipe is called Veg Manchurian. This dish is a fusion of Indian and Chinese 
 The sources included for the ingredients, recipe, and background are:
 https://holycowvegan.net/veg-manchurian/
 https://www.indianhealthyrecipes.com/gobi-manchurian-recipe/
-https://www.indianhealthyrecipes.com/veg-manchurian-recipe/# Recipe-using-Git-Bash
+https://www.indianhealthyrecipes.com/veg-manchurian-recipe/# 
